@@ -10,7 +10,7 @@
  
 # Usage
  
-ファインチューニングにはhttps://github.com/huggingface/transformers/examples/pytorch/language-modeling/のrun_clm.pyを使います。
+ファインチューニングには`https://github.com/huggingface/transformers/examples/pytorch/language-modeling/のrun_clm.py`を使います。
  
 ```bash
 git clone https://github.com/huggingface/transformers
